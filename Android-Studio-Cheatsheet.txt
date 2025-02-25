@@ -1,0 +1,6 @@
+ANDRIOD STUDIO CHEATSHEET
+
+ 
+1. Editor Text - Wrap 
+== Go to Settings > Search "Soft Wraps" > Set a Keyboard Shortcut as "Alt + Z" > Apply
+HOW TO USE : Toggle using `Alt + Z` or `Alt + z`
